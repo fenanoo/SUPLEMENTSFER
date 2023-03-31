@@ -344,6 +344,24 @@ footer{background:url(img/teclado.jpg);}
 footer p{
   margin-top:var(--espacios);
 }
+.redes{
+  height: 200px;
+  background-color: #84acbf;
+  padding: 30px;
+}
+.redes h2{
+  font-family: gabriola;
+  text-align: center;
+  font-weight: bold;
+}
+.Sociales{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.Sociales li{
+  display: inline-block;
+}
 
 @media screen and (max-width: 700px){
   .nav2{
